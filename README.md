@@ -1,5 +1,5 @@
 #  Gym Fitness Data Analysis Project
-##  Project Overview
+## Project Overview
 
 ## This project focuses on analyzing gym and fitness data to uncover meaningful insights into user behavior, workout patterns, and health metrics.
 
